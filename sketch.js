@@ -137,7 +137,7 @@ let flowers = [
   
 
 
-  text('Press r to start again', 10, 20);
+
    // Fill in the background
    frameRate(settings.fr);
    if (settings.redraw_bg){
